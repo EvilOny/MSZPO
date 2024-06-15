@@ -1,0 +1,3 @@
+﻿  server.cpp
+C:\Users\figor\Desktop\ServerClient_9\ServerClient\server.cpp(164,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ServerClient.vcxproj -> C:\Users\figor\Desktop\ServerClient_9\x64\Debug\Server.exe

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source1.cpp
+E:\МПЗРС\Login\Login\Source1.cpp(65,33): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+E:\МПЗРС\Login\Login\Source1.cpp(69,33): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Login.vcxproj -> E:\МПЗРС\Login\x64\Debug\Login.exe
